@@ -10,18 +10,18 @@ NOTE: The bug bounty landscape has changed since the last few years. The issues 
  
 - Security bug or vulnerability is “a weakness in the computational logic (e.g., code) found in software and hardware components that, when exploited, results in a negative impact to confidentiality, integrity, OR availability.
 
-#What is Bug Bounty?
+# What is Bug Bounty?
 
 A bug bounty or bug bounty program is IT jargon for a reward or bounty program given for finding and reporting a bug in a particular software product. Many IT companies offer bug bounties to drive product improvement and get more interaction from end users or clients. Companies that operate bug bounty programs may get hundreds of bug reports, including security bugs and security vulnerabilities, and many who report those bugs stand to receive awards.
 
-#What is the Reward?
-There are all types of rewards based on the severity of the issue and the cost to fix. They may range from real money (most prevalent) to premium subscriptions (Prime/Netflix), discount coupons (for e commerce of shopping sites), gift vouchers, swags (apparels, badges, customized stationery, etc.). Money may range from 50$ to 50,000$ and even more.
+# What is the Reward?
+There are all types of rewards based on the severity of the issue and the cost to fix. They may range from real money (most prevalent) to premium subscriptions (Prime/Netflix), discount coupons (for e-commerce of shopping sites), gift vouchers, swags (apparels, badges, customized stationery, etc.). Money may range from 50$ to 50,000$ and even more.
 
-What to learn?
+# What to learn?
 
-Technical
+## Technical
 
-# Computer Fundamentals
+## Computer Fundamentals
 
 https://www.comptia.org/training/by-certification/a
 
@@ -35,7 +35,7 @@ https://www.udemy.com/course/complete-computer-basics-course/
 
 https://www.coursera.org/courses?query=computer%20fundamentals
 
-# Computer Networking
+## Computer Networking
 
 https://www.youtube.com/watch?v=0AcpUwnc12E&list=PLkW9FMxqUvyZaSQNQslneeODER3bJCb2K
 
@@ -65,7 +65,7 @@ https://www.youtube.com/watch?v=v_1zB2WNN14
 
 # Command Line
 
-Windows:
+## Windows:
 
 https://www.youtube.com/watch?v=TBBbQKp9cKw&list=PLRu7mEBdW7fDTarQ0F2k2tpwCJg_hKhJQ
 
@@ -73,7 +73,7 @@ https://www.youtube.com/watch?v=fid6nfvCz1I&list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gb
 
 https://www.youtube.com/watch?v=UVUd9_k9C6A
 
-# Linux:
+## Linux:
 
 https://www.youtube.com/watch?v=fid6nfvCz1I&list=PLRu7mEBdW7fDlf80vMmEJ4Vw9uf2Gbyc_
 
@@ -89,7 +89,7 @@ https://www.youtube.com/watch?v=bYRfRGbqDIw&list=PLkPmSWtWNIyTQ1NX6MarpjHPkLUs3u
 
 # Programming
 
-C
+## C
 
 https://www.youtube.com/watch?v=irqbmMNs2Bo
 
@@ -97,7 +97,7 @@ https://www.youtube.com/watch?v=ZSPZob_1TOk
 
 https://www.programiz.com/c-programming
 
-Python
+## Python
 
 https://www.youtube.com/watch?v=ZLga4doUdjY&t=30352s
 
@@ -105,7 +105,7 @@ https://www.youtube.com/watch?v=gfDE2a7MKjA
 
 https://www.youtube.com/watch?v=eTyI-M50Hu4
 
-JavaScript
+## JavaScript
 
 https://www.youtube.com/watch?v=-lCF2t6iuUc
 
@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=hKB-YGF14SY&t=1486s
 
 https://www.youtube.com/watch?v=jS4aFq5-91M
 
-PHP
+## PHP
 
 https://www.youtube.com/watch?v=1SnPKhCdlsU
 
@@ -123,7 +123,7 @@ https://www.youtube.com/watch?v=T8SEGXzdbYg&t=1329s
 
 # Where to learn from?
 
-# Books
+## Books
 
 Web Application Hacker's Handbook: https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470
 
@@ -143,7 +143,7 @@ Web Hacking 101: https://www.pdfdrive.com/web-hacking-101-e26570613.html
 
 OWASP Mobile Testing Guide :https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide
 
-# Writeups
+## Writeups
 
 Medium: https://medium.com/analytics-vidhya/a-beginners-guide-to-cyber-security-3d0f7891c93a
 
@@ -153,7 +153,7 @@ Hackerone Hacktivity: https://hackerone.com/hacktivity
 
 Google VRP Writeups: https://github.com/xdavidhu/awesome-google-vrp-writeups
 
-# Blogs and Articles
+## Blogs and Articles
 
 Hacking Articles: https://www.hackingarticles.in/
 
@@ -165,7 +165,7 @@ Intigriti Blogs: https://blog.intigriti.com/
 
 Portswigger Blogs: https://portswigger.net/blog
 
-Forums
+## Forums
 
 Reddit: https://www.reddit.com/r/websecurity/
 
@@ -173,7 +173,7 @@ Reddit: https://www.reddit.com/r/netsec/
 
 Bugcrowd Discord: https://discord.com/invite/TWr3Brs
 
-Official Websites
+## Official Websites
 
 OWASP: https://owasp.org/
 
@@ -181,9 +181,9 @@ PortSwigger: https://portswigger.net/
 
 Cloudflare: https://www.cloudflare.com/
 
-YouTube Channels
+## YouTube Channels
 
-English
+### English
 
 zSecurity: https://www.youtube.com/c/zSecurity
 
@@ -213,7 +213,7 @@ David Bombal :https://www.youtube.com/c/DavidBombal
 
 Domain of Science : https://www.youtube.com/c/DomainofScience/videos
 
-Hindi
+### Hindi
 
 Spin The Hack: https://www.youtube.com/c/SpinTheHack
 
@@ -393,9 +393,9 @@ BugBountyHunter: https://www.bugbountyhunter.com/ (premium)
 
 W3Challs : https://w3challs.com/
 
-Bug Bounty Platforms
+# Bug Bounty Platforms
 
-Crowdsourcing
+## Crowdsourcing
 
 hackenproof: https://hackenproof.com/
 
@@ -409,12 +409,12 @@ YesWeHack: https://www.yeswehack.com/
 
 OpenBugBounty: https://www.openbugbounty.org/
 
-Bugbounty japan: https://bugbounty.jp/
+Bugbounty Japan: https://bugbounty.jp/
 
 safeHat: https://safehats.com/
 
 
-Individual Programs
+## Individual Programs
 
 Meta: https://www.facebook.com/whitehat
 
@@ -422,13 +422,13 @@ Google: https://about.google/appsecurity/
 
 <b> All bug hunting platform - chaos.projectdiscovery: https://chaos.projectdiscovery.io/#/ </b>
 
-# cybersecurity news
+# Cybersecurity News
 
 Seytonic: https://www.youtube.com/c/Seytonic
 
 Grant Collins: https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA/videos
 
-# hardware hacking 
+# Hardware Hacking 
 
 Joe Grand: https://www.youtube.com/c/JoeGrand
 
