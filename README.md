@@ -10,11 +10,11 @@ NOTE: The bug bounty landscape has changed since the last few years. The issues 
  
 - Security bug or vulnerability is “a weakness in the computational logic (e.g., code) found in software and hardware components that, when exploited, results in a negative impact to confidentiality, integrity, OR availability.
 
-#What is Bug Bounty?
+# What is Bug Bounty?
 
 A bug bounty or bug bounty program is IT jargon for a reward or bounty program given for finding and reporting a bug in a particular software product. Many IT companies offer bug bounties to drive product improvement and get more interaction from end users or clients. Companies that operate bug bounty programs may get hundreds of bug reports, including security bugs and security vulnerabilities, and many who report those bugs stand to receive awards.
 
-#What is the Reward?
+# What is the Reward?
 There are all types of rewards based on the severity of the issue and the cost to fix. They may range from real money (most prevalent) to premium subscriptions (Prime/Netflix), discount coupons (for e commerce of shopping sites), gift vouchers, swags (apparels, badges, customized stationery, etc.). Money may range from 50$ to 50,000$ and even more.
 
 What to learn?
